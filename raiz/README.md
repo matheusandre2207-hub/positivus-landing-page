@@ -1,0 +1,15 @@
+Este projeto consistiu na reprodução fiel de uma Landing Page com estética Neo-brutalista para a Positivus.
+A criação focou na precisão de espaçamentos, tipografia e cores, garantindo uma interface indistinguível do design original.
+Para acelerar o desenvolvimento, utilizei ferramentas de IA generativa (Gemini) para a estruturação inicial do código HTML e CSS.
+A IA foi fundamental na etapa de criação da estrutura básica (Boilerplate) e na conversão rápida de layouts em Flexbox/Grid.
+O auxílio da inteligência artificial também foi crucial para a lógica de responsividade das quatro seções principais.
+Além do código, a IA ajudou no suporte técnico de infraestrutura, como na resolução de erros críticos de DNS no Windows.
+Apesar da base gerada por IA, realizei diversos ajustes manuais para garantir a fidelidade visual absoluta do Figma.
+Ajustei manualmente os paddings e margins para que o respiro entre os elementos fosse idêntico à referência.
+A escala das imagens e ícones PNG também foi refinada à mão para evitar distorções em diferentes resoluções.
+As cores específicas, como o verde neon (#b9ff66), foram inseridas via CSS manual para manter o padrão da marca.
+Refinei as bordas arredondadas e as sombras sólidas (box-shadow) para reforçar o estilo brutalista solicitado.
+O arquivo Hosts do sistema precisou de intervenção direta para permitir a conexão e o deploy no GitHub.
+A organização da pasta /parte-1 foi feita manualmente para cumprir rigorosamente os requisitos da Entrega 1.
+A integração do formulário de contato e o posicionamento das artes geométricas também passaram por ajustes finos no código.
+O resultado final é uma página publicada online, totalmente responsiva e pronta para avaliação técnica.

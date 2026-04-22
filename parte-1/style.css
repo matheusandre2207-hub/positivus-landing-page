@@ -167,6 +167,11 @@ button {
     height: 280px;
 }
 
+/* Seleciona o span dentro da div learn-more que esta dentro de um card preto*/
+.service-card.bg-black .learn-more span{
+    color: white;
+}
+
 .bg-gray { background: var(--gray); }
 .bg-green { background: var(--green); }
 .bg-black { background: var(--black); }
